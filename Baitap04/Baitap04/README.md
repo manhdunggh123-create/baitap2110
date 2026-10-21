@@ -2,10 +2,10 @@
 
 ## THÔNG TIN SINH VIÊN
 
-- **Họ và tên:** Vương Thanh Thúy
-- **Mã số sinh viên:** 24810310270
+- **Họ và tên:** Ngô Mạnh Dũng
+- **Mã số sinh viên:** 24810310194
 - **Lớp:** D19CNPM3
-- **Tên môn học:** Lập trình .Net
+- **Tên môn học:** Lập trình.Net
 - **Tên bài tập:** Bài 4.6 – 4.8: BindingSource & File, MDI, Async/Await
 
 ---
